@@ -7,6 +7,8 @@ _ expands to match anything lazily
 var replace_rules = [
 
 	"エクストラデッキに入れられる => Can be put into Extra Deck",
+	"フレンドでレベルアップできる => Can level up as friend",
+	"レベルアップした場合、追加でパートナーをレベルアップできる => When leveled up, partner can still be level up",
 	
 	"@のターンの場合 => if it's $1 turn",
 	"@のターンに => during $1 turn、 ",
