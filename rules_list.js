@@ -247,7 +247,7 @@ var replace_rules = [
 	"パートナー => Partner",
 	
 	"アペンドルール：フレンズ => Append Rule: Friends",
-	"に入れられる => Can be put into $1",
+	"エクストラデッキに入れられる => Can be put into Extra Deck",
 	
 	"同OS => Same OS",
 	"同作品 => Same Work",
