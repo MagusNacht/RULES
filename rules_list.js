@@ -243,6 +243,7 @@ var replace_rules = [
 	"永続 => Continuous",
 	"バトル相手 => the Battle Opponent ",
 	"バトル => Battle ",
+	"参加中OK => Battle OK ",
 	"パートナー => Partner",
 	"同OS => Same OS",
 	"同作品 => Same Work",
