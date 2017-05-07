@@ -22,7 +22,6 @@ var replace_rules = [
 	"自分の_すべてが_である => all your $1 are $2",
 	"(エクストラキャラ)でない => non-$1",
 	
-	"このキャラ以外の自分のキャラが_体以上登場している場合 => If you have $2 or more characters other than this character in your Arena",
 	
 	"このセットカードが_にセットされた場合 => when this is Set to $1",
 	"@が_の能力によって_から_になった場合 => when $1 becomes $4 from $3 due to an ability of a $2",
@@ -48,7 +47,7 @@ var replace_rules = [
 	"@が_で_から_になった場合 => when $1 becomes $4 from $3 due to $2",
 	"@が_で_になった場合 => when $1 becomes $3 due to $2",
 	"自分が_でカードを引いた場合 => when you draw a card due to $1",
-
+        "このキャラ以外の自分のキャラが_体以上登場している場合 => If you have $2 or more characters other than this character in your Arena",
 	"自分が次に_のコストとして自分の_を_に置く場合 => your next $1 cost's $2 to $3 cost",
 	"その枚数を_減少する => reduce the amount of cards by $1",
 
