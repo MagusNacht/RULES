@@ -249,6 +249,7 @@ var replace_rules = [
 	"同作品 => Same Work",
 	"スキル => Skill ",
 	"乱入 => Tresspass",
+	"アペンドルール => Append Rule",
 	"先制攻撃 => First Attack",
 	"先制防御 => First Defense",
 	"貫通 => Penetrate",
