@@ -281,7 +281,6 @@ var replace_rules = [
 	"目標 => target ",
 	"your_すべて => all your $1",
 	
-	"以外" => other than",
 	
 	"か =>  or ",
 	"や =>  or ",
