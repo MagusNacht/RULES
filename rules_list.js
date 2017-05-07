@@ -10,6 +10,10 @@ var replace_rules = [
 	"フレンドでレベルアップできる => Can level up as friend",
 	"レベルアップした場合、追加でパートナーをレベルアップできる => When leveled up, partner can still be level up",
 	
+	"自分のアリーナのレベルカード１枚を手札に戻す => Put 1 level card from your arena to hand",
+	"この能力のコストでこのキャラのレベルカードを手札に戻した場合 =>  If the level card put to hand by this effect ability cost is from this character",
+	
+	
 	"@のターンの場合 => if it's $1 turn",
 	"@のターンに => during $1 turn、 ",
 	"@終了時まで => until the end of $1",
