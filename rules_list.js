@@ -246,7 +246,7 @@ var replace_rules = [
 	"参加中OK => Battle OK",
 	"パートナー => Partner",
 	
-	"[アペンドルール：フレンズ]エクストラデッキに入れられる。フレンドでレベルアップできる。レベルアップした場合、追加でパートナーをレベルアップできる。 => [Append Rule: Friends] Can be put into extra deck. Can level up as friend. When leveled up, partner can still be level up.",
+	"アペンドルール：フレンズ => Append Rule: Friends",
 	
 	"同OS => Same OS",
 	"同作品 => Same Work",
