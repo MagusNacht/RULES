@@ -282,8 +282,8 @@ var replace_rules = [
 	"目標 => target ",
 	"your_すべて => all your $1",
 	
-	//append rules
-	"[アペンドルール：フレンズ]エクストラデッキに入れられる。フレンドでレベルアップできる。レベルアップした場合、追加でパートナーをレベルアップできる。 => [Append Rule: Friends] Can be put into extra deck. Can level up as friend. When leveled up, partner can still be level up.",
+
+	"アペンドルール：フレンズ => Append Rule: Friends",
 	
 	
 	
