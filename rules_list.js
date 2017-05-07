@@ -14,6 +14,7 @@ var replace_rules = [
 	"自分の_すべてが_である => all your $1 are $2",
 	"(エクストラキャラ)でない => non-$1",
 	
+	"このキャラ以外の自分のキャラが４体以上登場している場合 =>  If 4 or more of your characters other than this character are appearing",
 	"このセットカードが_にセットされた場合 => when this is Set to $1",
 	"@が_の能力によって_から_になった場合 => when $1 becomes $4 from $3 due to an ability of a $2",
 	"このキャラが登場かレベルアップかオートレベルアップした場合 => when this Character Enters or Levels Up or Auto-Level Ups",
