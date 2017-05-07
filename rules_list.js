@@ -245,6 +245,7 @@ var replace_rules = [
 	"バトル => Battle ",
 	"参加中OK => Battle OK",
 	"パートナー => Partner",
+	"アペンドルール => Append Rule",
 	"同OS => Same OS",
 	"同作品 => Same Work",
 	"スキル => Skill ",
@@ -281,9 +282,6 @@ var replace_rules = [
 	"アップ => Up ",
 	"目標 => target ",
 	"your_すべて => all your $1",
-	
-
-	"アペンドルール => Append Rule",
 	
 	
 	
