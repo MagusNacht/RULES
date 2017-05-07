@@ -249,7 +249,6 @@ var replace_rules = [
 	"同作品 => Same Work",
 	"スキル => Skill ",
 	"乱入 => Tresspass",
-	"アペンドルール => Append Rule",
 	"先制攻撃 => First Attack",
 	"先制防御 => First Defense",
 	"貫通 => Penetrate",
@@ -282,6 +281,10 @@ var replace_rules = [
 	"アップ => Up ",
 	"目標 => target ",
 	"your_すべて => all your $1",
+	
+	//append rules
+	"[アペンドルール：フレンズ]エクストラデッキに入れられる。フレンドでレベルアップできる。レベルアップした場合、追加でパートナーをレベルアップできる。 => [Append Rule: Friends] Can be put into extra deck. Can level up as friend. When leveled up, partner can still be level up.",
+	
 	
 	
 	"か =>  or ",
