@@ -283,7 +283,7 @@ var replace_rules = [
 	"your_すべて => all your $1",
 	
 
-	"アペンドルール：フレンズ => Append Rule: Friends",
+	"アペンドルール => Append Rule",
 	
 	
 	
