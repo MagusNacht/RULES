@@ -6,6 +6,8 @@ _ expands to match anything lazily
 */
 var replace_rules = [
 
+	"エクストラデッキに入れられる => Can be put into Extra Deck",
+	
 	"@のターンの場合 => if it's $1 turn",
 	"@のターンに => during $1 turn、 ",
 	"@終了時まで => until the end of $1",
